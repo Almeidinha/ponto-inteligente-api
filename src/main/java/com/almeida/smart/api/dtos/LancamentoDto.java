@@ -4,6 +4,7 @@ import java.util.Optional;
 
 import javax.validation.constraints.NotEmpty;
 
+
 public class LancamentoDto {
 	
 	private Optional<Long> id = Optional.empty();
